@@ -4,24 +4,24 @@
         perks: [
             {
                 rank: 1,
-                name: '???',
-                img: 'mysterious-stranger.png',
+                name: 'Increase Melee Damage',
+                img: 'big-leagues.png',
                 ranks: 3,
                 ranked: [
                     {
                         rank: 1,
                         level: 0,
-                        description: '???'
+                        description: 'Deal 15% more melee/fist/bash weapon damage.'
                     },
                     {
                         rank: 2,
                         level: 0,
-                        description: '???'
+                        description: 'Deal 30% more melee/fist/bash weapon damage.'
                     },
                     {
                         rank: 3,
                         level: 0,
-                        description: '???'
+                        description: 'Deal 45% more melee/fist/bash weapon damage.'
                     }
                 ]
             },
@@ -229,24 +229,24 @@
         perks: [
             {
                 rank: 1,
-                name: '???',
-                img: 'mysterious-stranger.png',
+                name: 'Increase Ranged Damage',
+                img: 'commando.png',
                 ranks: 3,
                 ranked: [
                     {
                         rank: 1,
                         level: 0,
-                        description: '???'
+                        description: 'Deal 15% more ranged weapon damage.'
                     },
                     {
                         rank: 2,
                         level: 0,
-                        description: '???'
+                        description: 'Deal 30% more ranged weapon damage.'
                     },
                     {
                         rank: 3,
                         level: 0,
-                        description: '???'
+                        description: 'Deal 45% more ranged weapon damage.'
                     }
                 ]
             },
@@ -454,24 +454,24 @@
         perks: [
             {
                 rank: 1,
-                name: '???',
-                img: 'mysterious-stranger.png',
+                name: 'Increase Health',
+                img: 'strong-back.png',
                 ranks: 3,
                 ranked: [
                     {
                         rank: 1,
                         level: 0,
-                        description: '???'
+                        description: 'Gain 20% more heatlh.'
                     },
                     {
                         rank: 2,
                         level: 0,
-                        description: '???'
+                        description: 'Gain 40% more heatlh.'
                     },
                     {
                         rank: 3,
                         level: 0,
-                        description: '???'
+                        description: 'Gain 60% more heatlh.'
                     }
                 ]
             },
@@ -679,24 +679,24 @@
         perks: [
             {
                 rank: 1,
-                name: '???',
-                img: 'mysterious-stranger.png',
+                name: 'Kill Skill - Restore Health',
+                img: 'better-criticals.png',
                 ranks: 3,
                 ranked: [
                     {
                         rank: 1,
                         level: 0,
-                        description: '???'
+                        description: 'test\nAfter you kill an enemy, immediately restore 10% health.'
                     },
                     {
                         rank: 2,
                         level: 0,
-                        description: '???'
+                        description: 'After you kill an enemy, immediately restore 15% health.'
                     },
                     {
                         rank: 3,
                         level: 0,
-                        description: '???'
+                        description: 'After you kill an enemy, immediately restore 20% health.'
                     }
                 ]
             },
