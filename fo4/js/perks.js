@@ -6,7 +6,7 @@
                 rank: 1,
                 name: 'Increase Melee Damage',
                 img: 'big-leagues.png',
-                ranks: 4,
+                ranks: 3,
                 ranked: [
                     {
                         rank: 1,
@@ -24,8 +24,8 @@
                         description: 'Deal 45% more melee/fist/bash weapon damage.'
                     },
                     {
-                        rank: 4,
-                        level: 51,
+                        rank: 0,
+                        level: 0,
                         description: 'For each point of Strength, deal 2.5% more melee/fist/bash weapon damage.'
                     }
                 ]
