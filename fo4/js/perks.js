@@ -6,7 +6,7 @@
                 rank: 1,
                 name: 'Increase Melee Damage',
                 img: 'big-leagues.png',
-                ranks: 3,
+                ranks: 4,
                 ranked: [
                     {
                         rank: 1,
@@ -22,6 +22,11 @@
                         rank: 3,
                         level: 0,
                         description: 'Deal 45% more melee/fist/bash weapon damage.'
+                    },
+                    {
+                        rank: 4,
+                        level: 51,
+                        description: 'For each point of Strength, deal 2.5% more melee/fist/bash weapon damage.'
                     }
                 ]
             },
@@ -231,7 +236,7 @@
                 rank: 1,
                 name: 'Increase Ranged Damage',
                 img: 'commando.png',
-                ranks: 3,
+                ranks: 4,
                 ranked: [
                     {
                         rank: 1,
@@ -247,6 +252,11 @@
                         rank: 3,
                         level: 0,
                         description: 'Deal 45% more ranged weapon damage.'
+                    },
+                    {
+                        rank: 4,
+                        level: 51,
+                        description: 'For each point of Perception, deal 2.5% more ranged weapon damage.'
                     }
                 ]
             },
@@ -456,7 +466,7 @@
                 rank: 1,
                 name: 'Increase Health',
                 img: 'strong-back.png',
-                ranks: 3,
+                ranks: 4,
                 ranked: [
                     {
                         rank: 1,
@@ -472,6 +482,11 @@
                         rank: 3,
                         level: 0,
                         description: 'Gain 60% more heatlh.'
+                    },
+                    {
+                        rank: 4,
+                        level: 51,
+                        description: 'For each point of Endurance, gain 4% more health.'
                     }
                 ]
             },
@@ -686,7 +701,7 @@
                     {
                         rank: 1,
                         level: 0,
-                        description: 'test\nAfter you kill an enemy, immediately restore 10% health.'
+                        description: 'After you kill an enemy, immediately restore 10% health.'
                     },
                     {
                         rank: 2,
@@ -697,6 +712,16 @@
                         rank: 3,
                         level: 0,
                         description: 'After you kill an enemy, immediately restore 20% health.'
+                    },
+                    {
+                        rank: 4,
+                        level: 51,
+                        description: 'For each point of Charisma, gain 0.5 seconds of kill skill duration.'
+                    },
+                    {
+                        rank: 5,
+                        level: 51,
+                        description: 'By default, immediately restore 5% health after you kill an enemy.'
                     }
                 ]
             },
