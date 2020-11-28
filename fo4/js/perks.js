@@ -9,6 +9,11 @@
                 ranks: 3,
                 ranked: [
                     {
+                        rank: 0,
+                        level: 0,
+                        description: 'For each point of Strength, deal 2.5% more melee/fist/bash weapon damage.'
+                    },
+                    {
                         rank: 1,
                         level: 0,
                         description: 'Deal 15% more melee/fist/bash weapon damage.'
@@ -22,11 +27,6 @@
                         rank: 3,
                         level: 0,
                         description: 'Deal 45% more melee/fist/bash weapon damage.'
-                    },
-                    {
-                        rank: 0,
-                        level: 0,
-                        description: 'For each point of Strength, deal 2.5% more melee/fist/bash weapon damage.'
                     }
                 ]
             },
