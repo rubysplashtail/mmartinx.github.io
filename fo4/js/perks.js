@@ -4,34 +4,24 @@
         perks: [
             {
                 rank: 1,
-                name: 'Iron Fist',
-                img: 'iron-fist.png',
-                ranks: 5,
+                name: '???',
+                img: 'mysterious-stranger.png',
+                ranks: 3,
                 ranked: [
                     {
                         rank: 1,
                         level: 0,
-                        description: 'Channel your chi to unleash devastating fury! Punching attacks now do 20% more damage.'
+                        description: '???'
                     },
                     {
                         rank: 2,
-                        level: 9,
-                        description: 'Punching attacks now do 40% more damage and can disarm your opponent.'
+                        level: 0,
+                        description: '???'
                     },
                     {
                         rank: 3,
-                        level: 18,
-                        description: 'Punching attacks now do 60% more damage. Unarmed Power Attacks have a chance to cripple one of your opponent\'s limbs.'
-                    },
-                    {
-                        rank: 4,
-                        level: 31,
-                        description: 'Attacks made with fists or weapons worn on the hands 80% more damage. Unarmed Power Attacks have an increased chance to cripple one of your opponent\'s limbs.'
-                    },
-                    {
-                        rank: 5,
-                        level: 46,
-                        description: 'Attacks made with fists or weapons worn on the hands inflict 100% more damage. Criticals in V.A.T.S. will paralyse your opponents.'
+                        level: 0,
+                        description: '???'
                     }
                 ]
             },
