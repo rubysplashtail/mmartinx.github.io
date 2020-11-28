@@ -27,248 +27,198 @@
             },
             {
                 rank: 2,
-                name: 'Big Leagues',
-                img: 'big-leagues.png',
-                ranks: 5,
+                name: '???',
+                img: 'mysterious-stranger.png',
+                ranks: 3,
                 ranked: [
                     {
                         rank: 1,
                         level: 0,
-                        description: 'Swing for the fences! Do 20% more melee weapon damage.'
+                        description: '???'
                     },
                     {
                         rank: 2,
-                        level: 7,
-                        description: 'You now do 40% more melee weapon damage and gain a chance to disarm your opponent.'
+                        level: 0,
+                        description: '???'
                     },
                     {
                         rank: 3,
-                        level: 15,
-                        description: 'You now do 60% more melee weapon damage and gain an increased chance to disarm your opponent.'
-                    },
-                    {
-                        rank: 4,
-                        level: 27,
-                        description: 'You now do 80% more melee weapon damage and hit all targets in front of you.'
-                    },
-                    {
-                        rank: 5,
-                        level: 42,
-                        description: 'You now do double damage with a melee weapon, and gain a chance to cripple your opponent, or grand slam their head clean off!'
+                        level: 0,
+                        description: '???'
                     }
                 ]
             },
             {
                 rank: 3,
-                name: 'Armorer',
-                img: 'armorer.png',
-                ranks: 4,
+                name: '???',
+                img: 'mysterious-stranger.png',
+                ranks: 3,
                 ranked: [
                     {
                         rank: 1,
                         level: 0,
-                        description: 'Protect yourself from the dangers of the Wasteland with access to base level and Rank 1 armor mods.'
+                        description: '???'
                     },
                     {
                         rank: 2,
-                        level: 13,
-                        description: 'You gain access to Rank 2 armor mods'
+                        level: 0,
+                        description: '???'
                     },
                     {
                         rank: 3,
-                        level: 25,
-                        description: 'You gain access to Rank 3 armor mods'
-                    },
-                    {
-                        rank: 4,
-                        level: 39,
-                        description: 'You gain access to Rank 4 armor mods'
+                        level: 0,
+                        description: '???'
                     }
                 ]
             },
             {
                 rank: 4,
-                name: 'Blacksmith',
-                img: 'blacksmith.png',
+                name: '???',
+                img: 'mysterious-stranger.png',
                 ranks: 3,
                 ranked: [
                     {
                         rank: 1,
                         level: 0,
-                        description: 'Fire up the forge and gain access to base level and Rank 1 melee weapon mods.'
+                        description: '???'
                     },
                     {
                         rank: 2,
-                        level: 16,
-                        description: 'You gain access to Rank 2 melee weapon mods'
+                        level: 0,
+                        description: '???'
                     },
                     {
                         rank: 3,
-                        level: 29,
-                        description: 'You gain access to Rank 3 melee weapon mods'
+                        level: 0,
+                        description: '???'
                     }
                 ]
             },
             {
                 rank: 5,
-                name: 'Heavy Gunner',
-                img: 'heavy-gunner.png',
-                ranks: 5,
+                name: '???',
+                img: 'mysterious-stranger.png',
+                ranks: 3,
                 ranked: [
                     {
                         rank: 1,
                         level: 0,
-                        description: 'Thanks to practice and conditioning, heavy guns do 20% more damage.'
+                        description: '???'
                     },
                     {
                         rank: 2,
-                        level: 11,
-                        description: 'Heavy guns now do 40% more damage, and have improved hip fire accuracy.'
+                        level: 0,
+                        description: '???'
                     },
                     {
                         rank: 3,
-                        level: 21,
-                        description: 'Heavy guns now do 60% more damage. Hip fire accuracy is increased even more.'
-                    },
-                    {
-                        rank: 4,
-                        level: 35,
-                        description: 'Heavy guns now do 80% more damage and have a chance to stagger your opponent.'
-                    },
-                    {
-                        rank: 5,
-                        level: 47,
-                        description: 'Heavy guns now do double damage.'
+                        level: 0,
+                        description: '???'
                     }
                 ]
             },
             {
                 rank: 6,
-                name: 'Strong Back',
-                img: 'strong-back.png',
-                ranks: 5,
+                name: '???',
+                img: 'mysterious-stranger.png',
+                ranks: 3,
                 ranked: [
                     {
                         rank: 1,
                         level: 0,
-                        description: 'What are you, part pack mule? Gain +25 to carry weight'
+                        description: '???'
                     },
                     {
                         rank: 2,
-                        level: 10,
-                        description: 'You now have +50 to carry weight.'
+                        level: 0,
+                        description: '???'
                     },
                     {
                         rank: 3,
-                        level: 20,
-                        description: 'When overencumbered, you can use Action Points to run.'
-                    },
-                    {
-                        rank: 4,
-                        level: 30,
-                        description: 'When overencumbered, you can fast travel.'
-                    },
-                    {
-                        rank: 5,
-                        level: 40,
-                        description: 'When overencumbered, running costs 50% less action points.(Far Harbor DLC)'
+                        level: 0,
+                        description: '???'
                     }
                 ]
             },
             {
                 rank: 7,
-                name: 'Steady Aim',
-                img: 'steady-aim.png',
+                name: '???',
+                img: 'mysterious-stranger.png',
                 ranks: 3,
                 ranked: [
                     {
                         rank: 1,
                         level: 0,
-                        description: 'Stay on target! Hip-fire accuracy is improved when firing any gun.'
+                        description: '???'
                     },
                     {
                         rank: 2,
-                        level: 28,
-                        description: 'Hip-fire accuracy is improved even more when firing any gun.'
+                        level: 0,
+                        description: '???'
                     },
                     {
                         rank: 3,
-                        level: 49,
-                        description: 'Hip-fire accuracy is improved when firing any gun.(Nuka-World DLC)'
+                        level: 0,
+                        description: '???'
                     }
                 ]
             },
             {
                 rank: 8,
-                name: 'Basher',
-                img: 'basher.png',
-                ranks: 4,
+                name: '???',
+                img: 'mysterious-stranger.png',
+                ranks: 3,
                 ranked: [
                     {
                         rank: 1,
                         level: 0,
-                        description: 'Get up close and personal! Gun bashing does 25% more damage.'
+                        description: '???'
                     },
                     {
                         rank: 2,
-                        level: 5,
-                        description: 'Gun bashing now does 50% more damage and possibly cripples your opponent.'
+                        level: 0,
+                        description: '???'
                     },
                     {
                         rank: 3,
-                        level: 14,
-                        description: 'Gun bashing now does 75% more damage and has an increased chance to cripple your opponent.'
-                    },
-                    {
-                        rank: 4,
-                        level: 26,
-                        description: 'Gun bashing does double damage and has an increased chance to cripple your opponent. It may also inflict a Critical Hit.'
+                        level: 0,
+                        description: '???'
                     }
                 ]
             },
             {
                 rank: 9,
-                name: 'Rooted',
-                img: 'rooted.png',
+                name: '???',
+                img: 'mysterious-stranger.png',
                 ranks: 3,
                 ranked: [
                     {
                         rank: 1,
                         level: 0,
-                        description: 'You\'re part tree! While standing still, you gain +25 Damage Resistance and your melee and unarmed attacks deal 25% more damage.'
+                        description: '???'
                     },
                     {
                         rank: 2,
-                        level: 22,
-                        description: 'While standing still, you now gain +50 Damage Resistance and your melee and unarmed attacks deal 50% more damage.'
+                        level: 0,
+                        description: '???'
                     },
                     {
                         rank: 3,
-                        level: 43,
-                        description: 'While standing still, you may automatically disarm enemies that use melee weapons against you.'
+                        level: 0,
+                        description: '???'
                     }
                 ]
             },
             {
                 rank: 10,
-                name: 'Pain Train',
-                img: 'pain-train.png',
-                ranks: 3,
+                name: '???',
+                img: 'mysterious-stranger.png',
+                ranks: 1,
                 ranked: [
                     {
                         rank: 1,
                         level: 0,
-                        description: 'Choo Choo! All aboard! While wearing Power Armor,sprinting into enemies hurts and staggers them. (Robots and oversized enemies are immune to the stagger.)'
-                    },
-                    {
-                        rank: 2,
-                        level: 24,
-                        description: 'Sprinting into enemies while wearing Power Armor now causes severe damage and a more powerful stagger. (Robots and oversized enemies are immune to the stagger.)'
-                    },
-                    {
-                        rank: 3,
-                        level: 50,
-                        description: 'Sprinting into enemies while wearing Power Armor now causes massive damage and knocks them down. Impact landing near enemies inflicts even more damage.'
+                        description: '???'
                     }
                 ]
             }
