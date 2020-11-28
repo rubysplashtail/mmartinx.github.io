@@ -1,4 +1,4 @@
-var totalPoints = 6;
+var totalPoints = 8;
 
 var renderPerks = function () {
     var html = '',
