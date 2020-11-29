@@ -9,16 +9,6 @@
                 ranks: 3,
                 ranked: [
                     {
-                        rank: 0,
-                        level: 0,
-                        description: 'For each point of Strength, deal 2.5% more melee weapon damage.'
-                    },
-                    {
-                        rank: 0,
-                        level: 0,
-                        description: 'Melee weapons include standard melee weapons, unarmed fists, fist weapons, gun bashing, etc.'
-                    },
-                    {
                         rank: 1,
                         level: 0,
                         description: 'Deal 15% more melee weapon damage.'
@@ -32,6 +22,16 @@
                         rank: 3,
                         level: 0,
                         description: 'Deal 45% more melee weapon damage.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'For each point of Strength, deal 2.5% more melee weapon damage.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'Melee weapons include standard melee weapons, unarmed fists, fist weapons, gun bashing, etc.'
                     }
                 ]
             },
@@ -41,11 +41,6 @@
                 img: 'big-leagues.png',
                 ranks: 3,
                 ranked: [
-                    {
-                        rank: 0,
-                        level: 0,
-                        description: 'Fast speed melee weapons include fists, knives, etc.'
-                    },
                     {
                         rank: 1,
                         level: 0,
@@ -60,6 +55,11 @@
                         rank: 3,
                         level: 0,
                         description: 'Deal 45% more fast speed melee weapon damage.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'Fast speed melee weapons include fists, knives, etc.'
                     }
                 ]
             },
@@ -69,11 +69,6 @@
                 img: 'big-leagues.png',
                 ranks: 3,
                 ranked: [
-                    {
-                        rank: 0,
-                        level: 0,
-                        description: 'Medium speed melee weapons include bats, swords, etc.'
-                    },
                     {
                         rank: 1,
                         level: 0,
@@ -88,6 +83,11 @@
                         rank: 3,
                         level: 0,
                         description: 'Deal 45% more medium speed melee weapon damage.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'Medium speed melee weapons include bats, swords, etc.'
                     }
                 ]
             },
@@ -97,11 +97,6 @@
                 img: 'big-leagues.png',
                 ranks: 3,
                 ranked: [
-                    {
-                        rank: 0,
-                        level: 0,
-                        description: 'Slow speed melee weapons include axes, sledgehammers, etc.'
-                    },
                     {
                         rank: 1,
                         level: 0,
@@ -116,6 +111,11 @@
                         rank: 3,
                         level: 0,
                         description: 'Deal 45% more slow speed melee weapon damage.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'Slow speed melee weapons include axes, sledgehammers, etc.'
                     }
                 ]
             },
@@ -259,16 +259,6 @@
                 ranks: 3,
                 ranked: [
                     {
-                        rank: 0,
-                        level: 0,
-                        description: 'For each point of Perception, deal 2.5% more ranged weapon damage.'
-                    },
-                    {
-                        rank: 0,
-                        level: 0,
-                        description: 'By default, enemies cannot deal bonus headshot damage to the player.'
-                    },
-                    {
                         rank: 1,
                         level: 0,
                         description: 'Deal 15% more ranged weapon damage.'
@@ -282,6 +272,16 @@
                         rank: 3,
                         level: 0,
                         description: 'Deal 45% more ranged weapon damage.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'For each point of Perception, deal 2.5% more ranged weapon damage.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'By default, enemies cannot deal bonus headshot damage to the player.'
                     }
                 ]
             },
@@ -291,11 +291,6 @@
                 img: 'commando.png',
                 ranks: 3,
                 ranked: [
-                    {
-                        rank: 0,
-                        level: 0,
-                        description: 'Small gun weapons include pistols, submachine guns, etc.'
-                    },
                     {
                         rank: 1,
                         level: 0,
@@ -310,6 +305,11 @@
                         rank: 3,
                         level: 0,
                         description: 'Deal 45% more small gun weapon damage.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'Small gun weapons include pistols, submachine guns, etc.'
                     }
                 ]
             },
@@ -319,11 +319,6 @@
                 img: 'commando.png',
                 ranks: 3,
                 ranked: [
-                    {
-                        rank: 0,
-                        level: 0,
-                        description: 'Medium gun weapons include rifles, shotguns, etc.'
-                    },
                     {
                         rank: 1,
                         level: 0,
@@ -338,6 +333,11 @@
                         rank: 3,
                         level: 0,
                         description: 'Deal 45% more medium gun weapon damage.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'Medium gun weapons include rifles, shotguns, etc.'
                     }
                 ]
             },
@@ -347,11 +347,6 @@
                 img: 'commando.png',
                 ranks: 3,
                 ranked: [
-                    {
-                        rank: 0,
-                        level: 0,
-                        description: 'Big gun weapons include miniguns, launchers, etc.'
-                    },
                     {
                         rank: 1,
                         level: 0,
@@ -366,6 +361,11 @@
                         rank: 3,
                         level: 0,
                         description: 'Deal 45% more big gun weapon damage.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'Big gun weapons include miniguns, launchers, etc.'
                     }
                 ]
             },
@@ -509,11 +509,6 @@
                 ranks: 3,
                 ranked: [
                     {
-                        rank: 0,
-                        level: 0,
-                        description: 'For each point of Endurance, gain 4% more health.'
-                    },
-                    {
                         rank: 1,
                         level: 0,
                         description: 'Gain 20% more heatlh.'
@@ -527,6 +522,11 @@
                         rank: 3,
                         level: 0,
                         description: 'Gain 60% more heatlh.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'For each point of Endurance, gain 4% more health.'
                     }
                 ]
             },
@@ -739,21 +739,6 @@
                 ranks: 3,
                 ranked: [
                     {
-                        rank: 0,
-                        level: 0,
-                        description: 'For each point of Charisma, gain 0.5 seconds of kill skill duration.'
-                    },
-                    {
-                        rank: 0,
-                        level: 0,
-                        description: 'By default, duration based kill skills last for 5 seconds.'
-                    },
-                    {
-                        rank: 0,
-                        level: 0,
-                        description: 'By default, immediately restore 5% health after you kill an enemy.'
-                    },
-                    {
                         rank: 1,
                         level: 0,
                         description: 'After you kill an enemy, immediately restore an additional 5% health.'
@@ -767,6 +752,21 @@
                         rank: 3,
                         level: 0,
                         description: 'After you kill an enemy, immediately restore an additional 15% health.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'For each point of Charisma, gain 0.5 seconds of kill skill duration.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'By default, duration based kill skills last for 5 seconds.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'By default, immediately restore 5% health after you kill an enemy.'
                     }
                 ]
             },
@@ -823,11 +823,6 @@
                 ranks: 3,
                 ranked: [
                     {
-                        rank: 0,
-                        level: 0,
-                        description: 'Automatic melee weapons do not benefit from this perk (such as rippers, buzz blades, etc).'
-                    },
-                    {
                         rank: 1,
                         level: 0,
                         description: 'After you kill an enemy, gain 10% melee weapon swing speed and ranged weapon fire rate for a few seconds.'
@@ -841,6 +836,11 @@
                         rank: 3,
                         level: 0,
                         description: 'After you kill an enemy, gain 30% melee weapon swing speed and ranged weapon fire rate for a few seconds.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'Automatic melee weapons do not benefit from this perk (such as rippers, buzz blades, etc).'
                     }
                 ]
             },
@@ -984,16 +984,6 @@
                 ranks: 3,
                 ranked: [
                     {
-                        rank: 0,
-                        level: 0,
-                        description: 'For each point of Intelligence, deal 1.5% more limb damage.'
-                    },
-                    {
-                        rank: 0,
-                        level: 0,
-                        description: 'By default, enemies cannot deal limb damage to the player.'
-                    },
-                    {
                         rank: 1,
                         level: 0,
                         description: 'Deal 5% more limb damage.'
@@ -1007,6 +997,16 @@
                         rank: 3,
                         level: 0,
                         description: 'Deal 15% more limb damage.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'For each point of Intelligence, deal 1.5% more limb damage.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'By default, enemies cannot deal limb damage to the player.'
                     }
                 ]
             },
@@ -1219,11 +1219,6 @@
                 ranks: 3,
                 ranked: [
                     {
-                        rank: 0,
-                        level: 0,
-                        description: 'For each point of Agility, gain 4% more action points.'
-                    },
-                    {
                         rank: 1,
                         level: 0,
                         description: 'Gain 20% more action points.'
@@ -1237,6 +1232,11 @@
                         rank: 3,
                         level: 0,
                         description: 'Gain 60% more action points.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'For each point of Agility, gain 4% more action points.'
                     }
                 ]
             },
@@ -1271,11 +1271,6 @@
                 ranks: 3,
                 ranked: [
                     {
-                        rank: 0,
-                        level: 0,
-                        description: 'Automatic melee weapons do not benefit from this perk (such as rippers, buzz blades, etc).'
-                    },
-                    {
                         rank: 1,
                         level: 0,
                         description: 'Gain 8% melee weapon swing speed.'
@@ -1289,6 +1284,11 @@
                         rank: 3,
                         level: 0,
                         description: 'Gain 24% melee weapon swing speed.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'Automatic melee weapons do not benefit from this perk (such as rippers, buzz blades, etc).'
                     }
                 ]
             },
@@ -1456,21 +1456,6 @@
                 ranks: 3,
                 ranked: [
                     {
-                        rank: 0,
-                        level: 0,
-                        description: 'For each point of Luck, gain 1% more critical hit chance.'
-                    },
-                    {
-                        rank: 0,
-                        level: 0,
-                        description: 'By default, gain 5% critical hit chance.'
-                    },
-                    {
-                        rank: 0,
-                        level: 0,
-                        description: 'By default, enemies cannot deal critical hit damage to the player.'
-                    },
-                    {
                         rank: 1,
                         level: 0,
                         description: 'Gain 5% critical hit chance.'
@@ -1484,6 +1469,21 @@
                         rank: 3,
                         level: 0,
                         description: 'Gain 15% critical hit chance.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'For each point of Luck, gain 1% more critical hit chance.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'By default, gain 5% critical hit chance.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'By default, enemies cannot deal critical hit damage to the player.'
                     }
                 ]
             },
