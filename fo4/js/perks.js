@@ -814,7 +814,7 @@
             {
                 rank: 4,
                 name: 'Kill Skill - Increase Weapon Speed',
-                img: 'grim-reapers-sprint.png.png',
+                img: 'grim-reapers-sprint.png',
                 ranks: 3,
                 ranked: [
                     {
