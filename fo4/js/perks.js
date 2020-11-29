@@ -1451,7 +1451,7 @@
                 ranks: 3,
                 ranked: [
                     {
-                        rank: 1,
+                        rank: 0,
                         level: 0,
                         description: 'For each point of Luck, gain 1% more critical hit chance.'
                     },
@@ -1461,7 +1461,7 @@
                         description: 'By default, gain 5% critical hit chance.'
                     },
                     {
-                        rank: 1,
+                        rank: 0,
                         level: 0,
                         description: 'By default, enemies cannot deal critical hit damage to the player.'
                     },
