@@ -236,8 +236,13 @@
                 rank: 1,
                 name: 'Increase Ranged Damage',
                 img: 'commando.png',
-                ranks: 4,
+                ranks: 3,
                 ranked: [
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'For each point of Perception, deal 2.5% more ranged weapon damage.'
+                    },
                     {
                         rank: 1,
                         level: 0,
@@ -252,11 +257,6 @@
                         rank: 3,
                         level: 0,
                         description: 'Deal 45% more ranged weapon damage.'
-                    },
-                    {
-                        rank: 4,
-                        level: 51,
-                        description: 'For each point of Perception, deal 2.5% more ranged weapon damage.'
                     }
                 ]
             },
@@ -465,9 +465,14 @@
             {
                 rank: 1,
                 name: 'Increase Health',
-                img: 'strong-back.png',
-                ranks: 4,
+                img: 'medic.png',
+                ranks: 3,
                 ranked: [
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'For each point of Endurance, gain 4% more health.'
+                    },
                     {
                         rank: 1,
                         level: 0,
@@ -482,11 +487,6 @@
                         rank: 3,
                         level: 0,
                         description: 'Gain 60% more heatlh.'
-                    },
-                    {
-                        rank: 4,
-                        level: 51,
-                        description: 'For each point of Endurance, gain 4% more health.'
                     }
                 ]
             },
@@ -695,9 +695,19 @@
             {
                 rank: 1,
                 name: 'Kill Skill - Restore Health',
-                img: 'better-criticals.png',
+                img: 'medic.png',
                 ranks: 3,
                 ranked: [
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'For each point of Charisma, gain 0.5 seconds of kill skill duration.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'By default, immediately restore 5% health after you kill an enemy.'
+                    },
                     {
                         rank: 1,
                         level: 0,
@@ -712,16 +722,6 @@
                         rank: 3,
                         level: 0,
                         description: 'After you kill an enemy, immediately restore 20% health.'
-                    },
-                    {
-                        rank: 4,
-                        level: 51,
-                        description: 'For each point of Charisma, gain 0.5 seconds of kill skill duration.'
-                    },
-                    {
-                        rank: 5,
-                        level: 51,
-                        description: 'By default, immediately restore 5% health after you kill an enemy.'
                     }
                 ]
             },
@@ -929,24 +929,29 @@
         perks: [
             {
                 rank: 1,
-                name: '???',
-                img: 'mysterious-stranger.png',
+                name: 'Increase Limb Damage',
+                img: 'concentrated-fire.png',
                 ranks: 3,
                 ranked: [
                     {
+                        rank: 0,
+                        level: 0,
+                        description: 'For each point of Intelligence, deal 1.5% more limb damage.'
+                    },
+                    {
                         rank: 1,
                         level: 0,
-                        description: '???'
+                        description: 'Deal 5% more limb damage.'
                     },
                     {
                         rank: 2,
                         level: 0,
-                        description: '???'
+                        description: 'Deal 10% more limb damage.'
                     },
                     {
                         rank: 3,
                         level: 0,
-                        description: '???'
+                        description: 'Deal 15% more limb damage.'
                     }
                 ]
             },
@@ -1154,24 +1159,29 @@
         perks: [
             {
                 rank: 1,
-                name: '???',
-                img: 'mysterious-stranger.png',
+                name: 'Increase Action Points',
+                img: 'action-boy-action-girl.png',
                 ranks: 3,
                 ranked: [
                     {
+                        rank: 0,
+                        level: 0,
+                        description: 'For each point of Agility, gain 4% more action points.'
+                    },
+                    {
                         rank: 1,
                         level: 0,
-                        description: '???'
+                        description: 'Gain 20% more action points.'
                     },
                     {
                         rank: 2,
                         level: 0,
-                        description: '???'
+                        description: 'Gain 40% more action points.'
                     },
                     {
                         rank: 3,
                         level: 0,
-                        description: '???'
+                        description: 'Gain 60% more action points.'
                     }
                 ]
             },
@@ -1379,24 +1389,34 @@
         perks: [
             {
                 rank: 1,
-                name: '???',
-                img: 'mysterious-stranger.png',
+                name: 'Increase Critical Hit Chance',
+                img: 'better-criticals.png',
                 ranks: 3,
                 ranked: [
                     {
                         rank: 1,
                         level: 0,
-                        description: '???'
+                        description: 'For each point of Luck, gain 1% more critical hit chance.'
+                    },
+                    {
+                        rank: 1,
+                        level: 0,
+                        description: 'By default, gain 5% critical hit chance.'
+                    },
+                    {
+                        rank: 1,
+                        level: 0,
+                        description: 'Gain 2.5% critical hit chance.'
                     },
                     {
                         rank: 2,
                         level: 0,
-                        description: '???'
+                        description: 'Gain 5% critical hit chance.'
                     },
                     {
                         rank: 3,
                         level: 0,
-                        description: '???'
+                        description: 'Gain 7.5% critical hit chance.'
                     }
                 ]
             },
