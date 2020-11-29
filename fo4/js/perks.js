@@ -11,22 +11,27 @@
                     {
                         rank: 0,
                         level: 0,
-                        description: 'For each point of Strength, deal 2.5% more melee/fist/bash weapon damage.'
+                        description: 'For each point of Strength, deal 2.5% more melee weapon damage.'
+                    },
+                    {
+                        rank: 0,
+                        level: 0,
+                        description: 'Melee weapons include standard melee weapons, unarmed fists, fist weapons, gun bashing, etc.'
                     },
                     {
                         rank: 1,
                         level: 0,
-                        description: 'Deal 15% more melee/fist/bash weapon damage.'
+                        description: 'Deal 15% more melee weapon damage.'
                     },
                     {
                         rank: 2,
                         level: 0,
-                        description: 'Deal 30% more melee/fist/bash weapon damage.'
+                        description: 'Deal 30% more melee weapon damage.'
                     },
                     {
                         rank: 3,
                         level: 0,
-                        description: 'Deal 45% more melee/fist/bash weapon damage.'
+                        description: 'Deal 45% more melee weapon damage.'
                     }
                 ]
             },
