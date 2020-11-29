@@ -711,17 +711,17 @@
                     {
                         rank: 1,
                         level: 0,
-                        description: 'After you kill an enemy, immediately restore 10% health.'
+                        description: 'After you kill an enemy, immediately restore an additional 5% health.'
                     },
                     {
                         rank: 2,
                         level: 0,
-                        description: 'After you kill an enemy, immediately restore 15% health.'
+                        description: 'After you kill an enemy, immediately restore an additional 10% health.'
                     },
                     {
                         rank: 3,
                         level: 0,
-                        description: 'After you kill an enemy, immediately restore 20% health.'
+                        description: 'After you kill an enemy, immediately restore an additional 15% health.'
                     }
                 ]
             },
